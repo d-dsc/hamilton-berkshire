@@ -43,7 +43,14 @@ body {
   letter-spacing: -0.005em;
 }
 
-body.aperture-locked { overflow: hidden; }
+/* --- Scroll snapping -------------------------------------- */
+html {
+  scroll-snap-type: y proximity;
+}
+
+.chapter, .geo-divider, .chapter-inter-title {
+  scroll-snap-align: start;
+}
 
 /* --- Typography ------------------------------------------- */
 h1, h2 {
@@ -166,6 +173,7 @@ p {
   align-items: center; justify-content: center;
   background: var(--color-bg);
   transition: opacity 0.5s var(--ease-out);
+  touch-action: none;
 }
 
 .aperture-box {
