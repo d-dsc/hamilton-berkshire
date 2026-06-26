@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
   /* ==========================================================
      OPENING SEQUENCE
      Aperture is a fixed overlay. Scroll/touch fades it out.
-     No body locking — page is always scrollable underneath.
+     No body locking. Page is always scrollable underneath.
      ========================================================== */
   function dismissAperture() {
     if (apertureDismissed) return;
