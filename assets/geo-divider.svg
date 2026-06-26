@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" fill="none">
+  <!-- Bold geometric chapter divider -->
+  <line x1="0" y1="100" x2="480" y2="100" stroke="#bf9b2e" stroke-width="1" opacity="0.3"/>
+  <rect x="540" y="70" width="120" height="60" rx="2" stroke="#bf9b2e" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <rect x="555" y="82" width="90" height="36" rx="1" stroke="#bf9b2e" stroke-width="0.5" fill="none" opacity="0.3"/>
+  <line x1="660" y1="100" x2="1200" y2="100" stroke="#bf9b2e" stroke-width="1" opacity="0.3"/>
+  <!-- Corner ticks -->
+  <line x1="500" y1="80" x2="520" y2="80" stroke="#bf9b2e" stroke-width="0.5" opacity="0.2"/>
+  <line x1="500" y1="80" x2="500" y2="100" stroke="#bf9b2e" stroke-width="0.5" opacity="0.2"/>
+  <line x1="700" y1="80" x2="680" y2="80" stroke="#bf9b2e" stroke-width="0.5" opacity="0.2"/>
+  <line x1="700" y1="80" x2="700" y2="100" stroke="#bf9b2e" stroke-width="0.5" opacity="0.2"/>
+  <line x1="500" y1="120" x2="520" y2="120" stroke="#bf9b2e" stroke-width="0.5" opacity="0.2"/>
+  <line x1="500" y1="120" x2="500" y2="100" stroke="#bf9b2e" stroke-width="0.5" opacity="0.2"/>
+  <line x1="700" y1="120" x2="680" y2="120" stroke="#bf9b2e" stroke-width="0.5" opacity="0.2"/>
+  <line x1="700" y1="120" x2="700" y2="100" stroke="#bf9b2e" stroke-width="0.5" opacity="0.2"/>
+</svg>
